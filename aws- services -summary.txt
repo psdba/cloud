@@ -1,0 +1,118 @@
+Amazon Web Services (AWS) offers a wide range of cloud services categorized into several main groups. Here's a list of AWS services based on their categories as of my last knowledge update in September 2021. Please note that AWS continually evolves and introduces new services, so this list may not be exhaustive or up-to-date.
+
+1. Compute Services:
+   - Amazon EC2 (Elastic Compute Cloud)
+   - AWS Lambda
+   - AWS Elastic Beanstalk
+   - Amazon EC2 Auto Scaling
+   - AWS Fargate
+   - AWS Batch
+   - AWS App Runner
+   - AWS Outposts
+   - AWS Wavelength
+
+2. Storage Services:
+   - Amazon S3 (Simple Storage Service)
+   - Amazon EBS (Elastic Block Store)
+   - Amazon EFS (Elastic File System)
+   - Amazon Glacier
+   - AWS Storage Gateway
+   - AWS Snowball
+   - AWS Backup
+
+3. Database Services:
+   - Amazon RDS (Relational Database Service)
+   - Amazon DynamoDB
+   - Amazon Redshift
+   - Amazon ElastiCache
+   - Amazon DocumentDB
+   - Amazon Neptune
+   - Amazon Keyspaces (for Apache Cassandra)
+   - AWS Database Migration Service
+
+4. Networking and Content Delivery:
+   - Amazon VPC (Virtual Private Cloud)
+   - Amazon CloudFront
+   - Amazon Route 53
+   - AWS Direct Connect
+   - AWS Elastic Load Balancing
+   - AWS Global Accelerator
+   - AWS Transit Gateway
+   - AWS App Mesh
+   - Amazon API Gateway
+
+5. Security, Identity, and Compliance:
+   - AWS IAM (Identity and Access Management)
+   - AWS Cognito
+   - Amazon GuardDuty
+   - AWS Secrets Manager
+   - AWS WAF (Web Application Firewall)
+   - AWS Certificate Manager
+   - AWS Identity Services (AWS SSO, AWS Directory Service)
+   - AWS KMS (Key Management Service)
+   - AWS Macie
+   - AWS Inspector
+
+6. Management and Governance:
+   - AWS CloudWatch
+   - AWS CloudFormation
+   - AWS Systems Manager
+   - AWS Config
+   - AWS CloudTrail
+   - AWS OpsWorks
+   - AWS Service Catalog
+   - AWS Trusted Advisor
+
+7. Analytics:
+   - Amazon EMR (Elastic MapReduce)
+   - Amazon Redshift
+   - Amazon Kinesis
+   - Amazon QuickSight
+   - AWS Data Pipeline
+   - AWS Glue
+   - AWS Lake Formation
+
+8. Machine Learning:
+   - Amazon SageMaker
+   - AWS Deep Learning AMIs
+   - AWS Comprehend
+   - AWS Lex
+   - AWS Polly
+   - AWS Rekognition
+
+9. Application Integration:
+   - Amazon SQS (Simple Queue Service)
+   - Amazon SNS (Simple Notification Service)
+   - Amazon Step Functions
+   - AWS AppFlow
+   - AWS EventBridge
+
+10. Developer Tools:
+   - AWS CodeBuild
+   - AWS CodeDeploy
+   - AWS CodePipeline
+   - AWS CodeCommit
+   - AWS X-Ray
+   - AWS Cloud9
+
+11. IoT (Internet of Things):
+   - AWS IoT Core
+   - AWS IoT Greengrass
+   - AWS IoT Device Management
+
+12. AR/VR (Augmented Reality/Virtual Reality):
+   - Amazon Sumerian
+
+13. Containers:
+   - Amazon EKS (Elastic Kubernetes Service)
+   - Amazon ECS (Elastic Container Service)
+   - AWS Fargate
+   - AWS App Runner
+
+14. Blockchain:
+   - Amazon Managed Blockchain
+
+15. Quantum Technologies:
+   - Amazon Braket
+
+Please keep in mind that AWS may have introduced new services or made changes to existing ones since my last knowledge update in September 2021. It's always a good practice to check the AWS website for the most current list of services and offerings.
